@@ -4,4 +4,4 @@ More details can be found in the blog post (in hebrew) at:
 
 [part-1]([https://www.google.com](https://route42.co.il/sudo-make-me-4-part-1))
 
-[part-2]([https://www.google.com](https://route42.co.il/sudo-make-me-4-part-2))
+[part-2](https://route42.co.il/sudo-make-me-4-part-2)
